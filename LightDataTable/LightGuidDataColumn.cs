@@ -6,7 +6,7 @@ using System.Reflection;
 namespace LightDataTable
 {
     /// <summary>
-    /// Light column with Guid values
+    /// Light column with Guid values 
     /// </summary>
     public sealed class LightGuidDataColumn : LightDataColumn, ILightColumn<Guid>
     {
